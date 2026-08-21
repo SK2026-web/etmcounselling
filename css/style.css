@@ -367,23 +367,10 @@ p.section-intro {
   content: "";
   position: absolute;
   left: 0;
-  top: 4px;
+  top: 3px;
   width: 20px;
   height: 20px;
-  border-radius: 50%;
-  background: var(--color-sage);
-}
-
-.list-check li::after {
-  content: "";
-  position: absolute;
-  left: 6px;
-  top: 9px;
-  width: 8px;
-  height: 4px;
-  border-left: 2px solid #fff;
-  border-bottom: 2px solid #fff;
-  transform: rotate(-45deg);
+  background: url('../images/leaf-bullet.svg') no-repeat center / contain;
 }
 
 /* Services list */
