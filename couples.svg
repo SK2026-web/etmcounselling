@@ -1,0 +1,22 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Two leaves together, symbolising couples counselling</title>
+<rect width="800" height="600" fill="#F5F2EA"/>
+<g transform="translate(340,320) rotate(-24)">
+  <path d="M0,-165 C78,-122 113,-35 87,52 C70,113 26,152 0,165 C-26,152 -70,113 -87,52 C-113,-35 -78,-122 0,-165 Z" fill="#8B9C87"/>
+  <path d="M0,-160 L0,160" stroke="#5F6F59" stroke-width="2.5" fill="none" opacity="0.5"/>
+  <path d="M0,-95 C30,-82 48,-60 57,-39" stroke="#5F6F59" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,-95 C-30,-82 -48,-60 -57,-39" stroke="#5F6F59" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,-15 C32,-2 52,20 61,42" stroke="#5F6F59" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,-15 C-32,-2 -52,20 -61,42" stroke="#5F6F59" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,160 C-3,177 -2,190 0,198" stroke="#5F6F59" stroke-width="2.5" fill="none" opacity="0.5"/>
+</g>
+<g transform="translate(470,340) rotate(16)">
+  <path d="M0,-150 C71,-111 103,-32 79,47 C64,103 24,138 0,150 C-24,138 -64,103 -79,47 C-103,-32 -71,-111 0,-150 Z" fill="#A3B29B"/>
+  <path d="M0,-145 L0,145" stroke="#6B7D66" stroke-width="2.5" fill="none" opacity="0.5"/>
+  <path d="M0,-86 C27,-74 44,-54 52,-35" stroke="#6B7D66" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,-86 C-27,-74 -44,-54 -52,-35" stroke="#6B7D66" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,-13 C29,-2 47,18 55,38" stroke="#6B7D66" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,-13 C-29,-2 -47,18 -55,38" stroke="#6B7D66" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,145 C-3,160 -2,172 0,179" stroke="#6B7D66" stroke-width="2.5" fill="none" opacity="0.5"/>
+</g>
+</svg>

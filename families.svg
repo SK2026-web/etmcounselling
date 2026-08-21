@@ -1,0 +1,24 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>A small cluster of leaves, symbolising family counselling</title>
+<rect width="800" height="600" fill="#F5F2EA"/>
+<g transform="translate(320,290) rotate(-20)">
+  <path d="M0,-125 C58,-92 84,-27 65,39 C52,86 20,115 0,125 C-20,115 -52,86 -65,39 C-84,-27 -58,-92 0,-125 Z" fill="#8B9C87"/>
+  <path d="M0,-120 L0,120" stroke="#5F6F59" stroke-width="2" fill="none" opacity="0.5"/>
+</g>
+<g transform="translate(460,270) rotate(14)">
+  <path d="M0,-110 C51,-81 74,-24 57,34 C46,76 18,102 0,110 C-18,102 -46,76 -57,34 C-74,-24 -51,-81 0,-110 Z" fill="#A3B29B"/>
+  <path d="M0,-106 L0,106" stroke="#6B7D66" stroke-width="2" fill="none" opacity="0.5"/>
+</g>
+<g transform="translate(400,395) rotate(-4)">
+  <path d="M0,-92 C43,-68 62,-20 48,29 C39,64 15,86 0,92 C-15,86 -39,64 -48,29 C-62,-20 -43,-68 0,-92 Z" fill="#6B7D66"/>
+  <path d="M0,-88 L0,88" stroke="#3F4A3B" stroke-width="1.8" fill="none" opacity="0.5"/>
+</g>
+<g transform="translate(255,400) rotate(-38)">
+  <path d="M0,-78 C36,-58 53,-17 41,24 C33,54 13,73 0,78 C-13,73 -33,54 -41,24 C-53,-17 -36,-58 0,-78 Z" fill="#B7C3AE"/>
+  <path d="M0,-75 L0,75" stroke="#6B7D66" stroke-width="1.6" fill="none" opacity="0.5"/>
+</g>
+<g transform="translate(535,405) rotate(30)">
+  <path d="M0,-72 C33,-53 49,-15 38,22 C30,50 12,67 0,72 C-12,67 -30,50 -38,22 C-49,-15 -33,-53 0,-72 Z" fill="#B7C3AE"/>
+  <path d="M0,-69 L0,69" stroke="#6B7D66" stroke-width="1.6" fill="none" opacity="0.5"/>
+</g>
+</svg>
