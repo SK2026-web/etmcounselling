@@ -1,0 +1,15 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>A single leaf, symbolising individual counselling</title>
+<rect width="800" height="600" fill="#F5F2EA"/>
+<g transform="translate(400,300) rotate(-18)">
+  <path d="M0,-190 C90,-140 130,-40 100,60 C80,130 30,175 0,190 C-30,175 -80,130 -100,60 C-130,-40 -90,-140 0,-190 Z" fill="#8B9C87"/>
+  <path d="M0,-185 L0,185" stroke="#5F6F59" stroke-width="3" fill="none" opacity="0.55"/>
+  <path d="M0,-110 C35,-95 55,-70 65,-45" stroke="#5F6F59" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,-110 C-35,-95 -55,-70 -65,-45" stroke="#5F6F59" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,-30 C40,-12 65,15 78,45" stroke="#5F6F59" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,-30 C-40,-12 -65,15 -78,45" stroke="#5F6F59" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,55 C35,68 55,90 62,112" stroke="#5F6F59" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,55 C-35,68 -55,90 -62,112" stroke="#5F6F59" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,185 C-4,205 -3,222 0,232" stroke="#5F6F59" stroke-width="3" fill="none" opacity="0.55"/>
+</g>
+</svg>
